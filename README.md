@@ -1,6 +1,8 @@
 # Pong game on C
 Project was made for one of my study projects. It was necessary to make it from the minimum number of tools and libraries, so the code is pretty simple.
 
+![giphy gif](https://github.com/IvanTvardovsky/pong_on_C/blob/main/pictures/readme.gif)
+
 The game ends when one of the players scores 21 points.
 
 **Controls:**
